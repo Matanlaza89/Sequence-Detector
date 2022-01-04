@@ -30,6 +30,6 @@ Link for the project video: <a href="https://youtu.be/3DLKKwSh_Fc" target="_blan
 
 <h1><u>Testbench Tasks</u></h1>
 <p>
-- Testing the sequence detector of all possible variations.
+- Testing the sequence detector of all possible variations.<br>
 - 2 ^ 4 = 16 possibilities.<br><br>
 </p>
