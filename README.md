@@ -1,7 +1,6 @@
 <h2><u>Welcome to Sequence Detector Personal Project using VHDL</u></h2>
 <p>
- This project reveals the sequence of the four bits that come from the first four switches in the development kit.<br><br>
-Link for the project video: <a href="https://youtu.be/3DLKKwSh_Fc" target="_blank">Sequence Detector Project Video</a>
+ This project reveals the sequence of the four bits that come from the first four switches in the development kit.
 </p>
 <h4><u>Files included:</u></h4>
 <u></u>
